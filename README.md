@@ -1,2 +1,2 @@
-# Typescript-Handbook-Zh
-Typescript 4.4 手册中文翻译
+# Typescript-Doc-Zh
+Typescript 官方文档中文翻译
