@@ -1,5 +1,7 @@
 ## 基础
 
+> 欢迎来到手册的第一章节。如果这是你第一次接触到 TypeScript，你可能需要先阅读一下[入门指南](https://www.typescriptlang.org/docs/handbook/intro.html#get-started)
+
 JavaScript 中的每个值会随着我们执行不同的操作表现出一系列的行为。这听起来很抽象，看下面的例子，考虑一下针对变量 `message` 可能执行的操作：
 
 ```js
@@ -336,32 +338,3 @@ TypeScript 有几个和类型检查相关的严格性设置，它们可以随时
 ### `strictNullChecks`
 
 默认情况下，`null` 和 `undefined` 可以被赋值给其它任意类型。这会让你的编码更加容易，但世界上无数多的 bug 正是由于忘记处理 `null` 和 `undefined` 导致的 —— 有时候它甚至会带来[数十亿美元的损失](https://www.youtube.com/watch?v=ybrQvs4x0Ps)！[strictNullChecks](https://www.typescriptlang.org/tsconfig#strictNullChecks) 配置项让处理`null` 和 `undefined` 的过程更加明显，会让我们时刻留意自己是否忘记处理 `null` 和 `undefined`。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
