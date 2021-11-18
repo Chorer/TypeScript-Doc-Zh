@@ -13,7 +13,7 @@ TypeScript 官方文档中文翻译
   * [TypeScript 手册]()
   * [基础](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/The%20Basics.md)
   * [普通类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Everyday%20Types.md)
-  * [类型收窄]()
+  * [类型收缩](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Narrowing.md)
   * [关于函数]()
   * [对象类型]()
   * [类型操控]()
