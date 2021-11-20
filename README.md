@@ -25,7 +25,7 @@
   
   - [x] [类型收缩](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Narrowing.md)
   
-  - [ ] [关于函数]()
+  - [x] [关于函数](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/More%20on%20Functions.md)
   
   - [ ] [对象类型]()
   
