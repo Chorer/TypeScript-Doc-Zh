@@ -4,7 +4,7 @@
 
 ```ts
 function padLeft(padding: number | string, input: string): string {
-    trjow new Error('Not implemented yet!')
+    throw new Error('Not implemented yet!')
 }
 ```
 
