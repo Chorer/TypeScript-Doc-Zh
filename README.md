@@ -27,7 +27,7 @@
   
   - [x] [关于函数](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/More%20on%20Functions.md)
   
-  - [ ] [对象类型]()
+  - [x] [对象类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Object20%Types.md)
   
   - [ ] [类型操控]()
   
