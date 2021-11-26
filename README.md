@@ -8,41 +8,33 @@
 ### 目录
 
 * [入门指南]()
-  
   - [ ] [为新手级程序员准备的 TS 入门指南]()
   - [ ] [为 JS 程序员准备的 TS 入门指南]()
   - [ ] [为 Java/C# 程序员准备的 TS 入门指南]()
   - [ ] [为熟悉函数式编程的程序员准备的 TS 入门指南]()
   - [ ] [5 分钟了解 TypeScript 工具]()
-  
-* [手册]()
-  
+* [手册](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook)
   - [ ] [TypeScript 手册]()  
-  
   - [x] [基础](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/The%20Basics.md)
-  
   - [x] [普通类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Everyday%20Types.md)
-  
   - [x] [类型收缩](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Narrowing.md)
-  
   - [x] [关于函数](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/More%20on%20Functions.md)
-  
-  - [x] [对象类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Object20%Types.md)
-  
-  - [ ] [类型操控]()
-  
+  - [x] [对象类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Object%20Types.md)
+  - [ ] [类型操控](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation)
+    - [ ] [从类型中创建类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Creating%20Types%20from%20Types.md)
+    - [ ] [泛型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Generics.md)
+    - [ ] [Keyof 类型操作符](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Keyof%20Type%20Operator.md)
+    - [ ] [Typeof 类型操作符](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Typeof%20Type%20Operator.md)
+    - [ ] [按索引访问类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Indexed%20Access%20Types.md)
+    - [ ] [条件类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Conditional%20Types.md)
+    - [ ] [映射类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Mapped%20Types.md)
+    - [ ] [模板字面量类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Template%20Literal%20Types.md)
   - [ ] [类]()
-  
   - [ ] [模块]()
-  
 * [引用]()
-
 * [教程]()
-
 * [声明文件]()
-
 * [JavaScript]()
-
 * [项目配置]()
 
 
