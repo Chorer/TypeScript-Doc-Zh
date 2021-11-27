@@ -25,7 +25,7 @@
     - [x] [泛型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Generics.md)
     - [x] [Keyof 类型操作符](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Keyof%20Type%20Operator.md)
     - [x] [Typeof 类型操作符](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Typeof%20Type%20Operator.md)
-    - [ ] [按索引访问类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Indexed%20Access%20Types.md)
+    - [x] [按索引访问的类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Indexed%20Access%20Types.md)
     - [ ] [条件类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Conditional%20Types.md)
     - [ ] [映射类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Mapped%20Types.md)
     - [ ] [模板字面量类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Template%20Literal%20Types.md)
