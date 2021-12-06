@@ -6,7 +6,7 @@ JavaScript 中的每个值会随着我们执行不同的操作表现出一系列
 
 ```js
 // 访问 message 的 toLowaerCase 方法并调用它
-message.toLowaerCase()
+message.toLowerCase()
 // 调用 message 函数
 message()
 ```
