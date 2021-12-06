@@ -28,7 +28,7 @@ message()
 const message = 'Hello World!'
 ```
 
-你可能很容易猜到，如果执行 `message.toLowerCase()`，我们将会得到一个首字符小写的字符串。
+你可能很容易猜到，如果执行 `message.toLowerCase()`，我们将会得到一个所有字母都是小写的字符串。
 
 如果执行第二行代码呢？熟悉 JavaScript 的你肯定猜到了，这会抛出一个异常：
 
