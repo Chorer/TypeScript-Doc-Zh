@@ -29,7 +29,7 @@
     - [x] [条件类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Conditional%20Types.md)
     - [x] [映射类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Mapped%20Types.md)
     - [x] [模板字面量类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Template%20Literal%20Types.md)
-  - [ ] [类]()
+  - [x] [类](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Classes.md)
   - [ ] [模块]()
 * [引用]()
 * [教程]()
