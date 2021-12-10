@@ -30,7 +30,7 @@
     - [x] [映射类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Mapped%20Types.md)
     - [x] [模板字面量类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Template%20Literal%20Types.md)
   - [x] [类](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Classes.md)
-  - [ ] [模块]()
+  - [x] [模块](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Modules.md)
 * [引用]()
 * [教程]()
 * [声明文件]()
