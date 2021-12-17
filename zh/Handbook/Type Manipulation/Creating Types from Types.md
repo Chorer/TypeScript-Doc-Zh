@@ -7,16 +7,11 @@ TypeScript 的类型系统非常强大，因为它允许我们用其它类型去
 通过结合不同的类型操作符，我们可以用一种简洁、可维护的方式去表示复杂的操作或者值。在本章节中，我们将会讲解几种用已有的类型或值表示新类型的方法。
 
 * [泛型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Generics.md) —— 可以接受参数的类型
+* [Keyof 类型操作符](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Keyof%20Type%20Operator.md) —— 使用 `keyof` 操作符创建新类型
+* [Typeof 类型操作符](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Typeof%20Type%20Operator.md) —— 使用 `typeof` 操作符创建新类型
+* [按索引访问类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Indexed%20Access%20Types.md) —— 使用 `Type['a']` 语法访问某个类型的某个子集
 
-* [Keyof 类型操作符](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Keyof%20Type%20Operator.md)
-
-* [Typeof 类型操作符](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Typeof%20Type%20Operator.md)
-
-* [按索引访问类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Indexed%20Access%20Types.md)
-
-* [条件类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Conditional%20Types.md)
-
-* [映射类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Mapped%20Types.md)
-
-* [模板字面量类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Template%20Literal%20Types.md)
+* [条件类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Conditional%20Types.md) —— 该类型的行为类似于类型系统中的 if 语句
+* [映射类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Mapped%20Types.md) —— 通过映射已有类型的每个属性去创建类型
+* [模板字面量类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Type%20Manipulation/Template%20Literal%20Types.md) —— 通过模板字面量字符串改变属性的映射类型
 
