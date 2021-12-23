@@ -33,7 +33,7 @@
   - [x] [类](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Classes.md)
   - [x] [模块](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Handbook/Modules.md)
 * [引用](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Reference)
-  - [ ] [工具类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Reference/Utility%20Types.md)
+  - [x] [工具类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Reference/Utility%20Types.md)
   - [ ] [装饰器](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Reference/Decorators.md)
   - [ ] [声明合并](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Reference/Declaration%20Merging.md)
   - [ ] [枚举](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Reference/Enums.md)
