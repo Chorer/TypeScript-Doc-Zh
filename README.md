@@ -35,7 +35,7 @@
 * [引用](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Reference)
   - [x] [工具类型](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Reference/Utility%20Types.md)
   - [ ] [装饰器](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Reference/Decorators.md)
-  - [ ] [声明合并](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Reference/Declaration%20Merging.md)
+  - [x] [声明合并](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Reference/Declaration%20Merging.md)
   - [ ] [枚举](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Reference/Enums.md)
   - [ ] [迭代器和生成器](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Reference/Iterators%20and%20Generators.md)
   - [ ] [JSX](https://github.com/Chorer/TypeScript-Doc-Zh/blob/main/zh/Reference/JSX.md)
